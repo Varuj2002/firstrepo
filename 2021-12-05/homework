@@ -1,0 +1,9 @@
+task1 snap info curl fb > folder :task 2 ls -laS |path|>sorted
+task3 install links links google
+grep dwin* -IR
+task5: ps -ef |grep nginx| awk {print   }
+task6: shutdown -h +x
+task7: ip r l
+task 8:ps aux --sort -rss
+task 9:crontab -e 
+task11: nautilus 2>/dev/null &
