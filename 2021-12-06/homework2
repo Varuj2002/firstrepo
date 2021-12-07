@@ -1,0 +1,4 @@
+task 1) wget link
+tar -xvf/home/user/Desktop/file
+sudo dpkg --install .deg
+task 2) rm -r file name
