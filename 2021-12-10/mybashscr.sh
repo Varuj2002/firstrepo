@@ -12,10 +12,11 @@ do
             mkdir $var1/$var2
     	   
     done    
+	
+
+done   
 	f1=`expr $2 % 10`
 	f2=$((($2 - $f1) /10))
 	mv $1 $f2/$f1
-
-done   
 fi
 
